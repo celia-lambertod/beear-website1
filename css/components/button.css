@@ -1,0 +1,26 @@
+.btn-blue {
+	background-color: #7952B3;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'libre franklin', serif;
+}
+
+.btn-yellow {
+	background-color: #FFC107;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #343A40;
+	font-weight: bold;
+	font-family: 'libre franklin', serif;
+}
+
+.btn-grey {
+	background-color: #E1E8EB;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #343A40;
+	font-weight: bold;
+	font-family: 'libre franklin', serif;
+}
